@@ -16,6 +16,8 @@
 * [Docker 解决拉取镜像被墙的问题](./posts/fix-docker-pull-images.md)
 * [Git 常用命令整理](./posts/git-common-command.md)
 * [Git 彻底删除大文件](./posts/git-remove-huge-object.md)
+* [Git tag版本代码快速修复](./posts/git-tag-repair.md)
+* [Git http模式保存账号和密码](./posts/git-save-http-password.md)
 * [Kubernetes 访问 dashboard](./posts/k8s-dashboard.md)
 * [Kubernetes 修改 kube-porxy ipvs 模式](./posts/k8s-ipvs-mode.md)
 * [Kubernetes 中使用 nfs-storageclass 持久化数据](./posts/k8s-nfs-storageclass.md)
@@ -26,4 +28,7 @@
 * [Python 魔法方法](./posts/python-magic-function.md)
 * [Python 从零开始写出简易版跳一跳外挂](./posts/python-wechat-jump-game.md)
 * [Vim 实用技巧](./posts/vim-tips.md)
+* [Linux 下无法删除的字符](./posts/linux-can-not-delete-char.md)
+* [Linux 查看磁盘空间大小命令](./posts/linux-disc-size.md)
+* [linux 动态库的符号冲突问题](./posts/linux-dynamic-library-conflict.md)
 
