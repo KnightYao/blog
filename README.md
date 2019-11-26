@@ -1,4 +1,4 @@
-# chenjiandongx's blog
+# KnightYao's blog
 
 在尝试了多种博客工具之后，我觉得博客应该要随心随性，易于编写和维护，所以决定使用比较有趣的方式来实现。工具栈是 grep+vim+fpp ，在每篇博客标题下为该文章打 Tags，便于搜索。
 
