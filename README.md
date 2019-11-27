@@ -31,4 +31,5 @@
 * [Linux 下无法删除的字符](./posts/linux-can-not-delete-char.md)
 * [Linux 查看磁盘空间大小命令](./posts/linux-disc-size.md)
 * [Linux 动态库的符号冲突问题](./posts/linux-dynamic-library-conflict.md)
+* [InstanceNorm 反向梯度推导](./posts/instancenorm.md)
 
